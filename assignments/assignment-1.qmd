@@ -8,7 +8,7 @@ title: "Assignment 1"
 
 My first assignment has three parts.
 
-## (a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar
+## (a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar [🧷](https://youtu.be/Fi8-phj1X1A)
 
 (Sir I guess this might be a podcast title for your serie)
 
