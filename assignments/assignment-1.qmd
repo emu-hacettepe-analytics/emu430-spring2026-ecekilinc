@@ -89,6 +89,6 @@ print(anyNA(new_data))
 
 ------------------------------------------------------------------------
 
-### [**Footnote**]{.underline}
+### [**Note**]{.underline}
 
-I really struggled especially with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
+I struggled especially with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
