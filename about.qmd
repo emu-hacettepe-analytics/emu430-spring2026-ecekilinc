@@ -5,26 +5,28 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  3EN Defense and Aerospace Systems Inc. , Production Planning Intern , 01/07/2025 - 01/08/2025
 
 # Projects
 
+Facility Layout (During my internship)
+
+Database Management Systems (Academic Project)
+
+Demand Allocation (Graduation Project)
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, SQL, MATLAB
 
 # Hobbies
+
+Basketball, Marbling Art
+
+[Click here to see my resume](ece_CV.pdf)
