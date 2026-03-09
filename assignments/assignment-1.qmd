@@ -94,4 +94,4 @@ print(paste("Yeni verideki kalan NA sayısı:", sum(is.na(new_data))))
 print(anyNA(new_data))
 ```
 
-I really struggled with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
+I really struggled especially with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
