@@ -46,7 +46,10 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts."
+    "text": "1 + 1\n\n[1] 2\nMy first assignment has three parts.",
+    "crumbs": [
+      "Assignment 1"
+    ]
   },
   {
     "objectID": "assignments.html",
@@ -64,5 +67,45 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a-brief-summary-of-fireside-chats-data-science-and-industrial-engineering-wcem-vardar",
+    "href": "assignments/assignment-1.html#a-brief-summary-of-fireside-chats-data-science-and-industrial-engineering-wcem-vardar",
+    "title": "Assignment 1",
+    "section": "(a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar",
+    "text": "(a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar\n(Sir I guess this might be a podcast title for your serie)\nThe first part of this talk was about Industrial Engineering and Data Science. Then, the conversation turned to how these two fields are related and looked at some specific sub-topics in data science. It gave a good overview of what is done in each area. Then, Cem Vardar talked about his own work experiences at Carvana and told us about tools we could learn on our own, like SQL, that would give us an advantage over other people. Lastly, he talked about what makes a good data scientist and told us which skills we should work on the most.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#b-question-from-the-talk",
+    "href": "assignments/assignment-1.html#b-question-from-the-talk",
+    "title": "Assignment 1",
+    "section": "(b) Question From The Talk",
+    "text": "(b) Question From The Talk\nQ1: How does mastering Data Science benefit an Industrial Engineer?\nA1: As Mr. Vardar mentioned, we industrial engineers deal with complex problems. Data science is a powerful tool for solving these problems. Even knowing the basics gives us a holistic approach and the ability to see the system from the outside.\nQ2: 1) Predictive Modelling\n2)Machine Learning\n3)Operations Research\nAccording to the video, which of the above are directly related to data science?\na) 1,2 b) 1,3 c) 2,3 d) 1,2,3",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#c-tasks-coding",
+    "href": "assignments/assignment-1.html#c-tasks-coding",
+    "title": "Assignment 1",
+    "section": "(c) Tasks coding",
+    "text": "(c) Tasks coding",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#c-tasks",
+    "href": "assignments/assignment-1.html#c-tasks",
+    "title": "Assignment 1",
+    "section": "(c) Tasks",
+    "text": "(c) Tasks",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]

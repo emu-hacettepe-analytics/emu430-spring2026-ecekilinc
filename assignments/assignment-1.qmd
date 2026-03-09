@@ -2,8 +2,6 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
 ```{r}
 1 + 1
 ```
@@ -19,15 +17,15 @@ The first part of this talk was about Industrial Engineering and Data Science. T
 ## (b) Question From The Talk
 
 Q1: How does mastering Data Science benefit an Industrial Engineer?\
-A1: As Mr. Cem mentioned, we industrial engineers deal with complex problems. Data science is a powerful tool for solving these problems. Even knowing the basics gives us a holistic approach and the ability to see the system from the outside.
+A1: As Mr. Vardar mentioned, we industrial engineers deal with complex problems. Data science is a powerful tool for solving these problems. Even knowing the basics gives us a holistic approach and the ability to see the system from the outside.
 
 Q2: 1) Predictive Modelling
 
-2)  Machine Learning
+2)Machine Learning
 
-3)  Operations Research
+3)Operations Research
 
 According to the video, which of the above are directly related to data science?\
 a) 1,2 b) 1,3 c) 2,3 d) 1,2,3
 
-## (c) Tasks coding
+## (c) Tasks 
