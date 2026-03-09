@@ -61,7 +61,7 @@ print(head(na_per_column, 8))
 ```
 
 ```{r}
-# Get a new data
+# Get a new data **** GEMINI USED A BIT STRONG :( ****
 new_data <- polls_us_election_2016
 
 
@@ -91,4 +91,4 @@ print(anyNA(new_data))
 
 ### [**Note**]{.underline}
 
-I struggled especially with the last past, tried to apply what I learned from the slides but still couldnt complete w/o getting help from AI.
+I struggled especially with **the** **last past**, tried to apply what I learned from the slides but still couldnt complete w/o getting help from AI.
