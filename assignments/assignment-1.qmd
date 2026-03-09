@@ -8,8 +8,26 @@ title: "Assignment 1"
 1 + 1
 ```
 
-My first assignment has two parts.
+My first assignment has three parts.
 
-## (a)
+## (a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar
 
-## (b)
+(Sir I guess this might be a podcast title for your serie)
+
+The first part of this talk was about Industrial Engineering and Data Science. Then, the conversation turned to how these two fields are related and looked at some specific sub-topics in data science. It gave a good overview of what is done in each area. Then, Cem Vardar talked about his own work experiences at Carvana and told us about tools we could learn on our own, like SQL, that would give us an advantage over other people. Lastly, he talked about what makes a good data scientist and told us which skills we should work on the most.
+
+## (b) Question From The Talk
+
+Q1: How does mastering Data Science benefit an Industrial Engineer?\
+A1: As Mr. Cem mentioned, we industrial engineers deal with complex problems. Data science is a powerful tool for solving these problems. Even knowing the basics gives us a holistic approach and the ability to see the system from the outside.
+
+Q2: 1) Predictive Modelling
+
+2)  Machine Learning
+
+3)  Operations Research
+
+According to the video, which of the above are directly related to data science?\
+a) 1,2 b) 1,3 c) 2,3 d) 1,2,3
+
+## (c) Tasks
