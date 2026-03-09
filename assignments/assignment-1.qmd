@@ -30,4 +30,4 @@ Q2: 1) Predictive Modelling
 According to the video, which of the above are directly related to data science?\
 a) 1,2 b) 1,3 c) 2,3 d) 1,2,3
 
-## (c) Tasks
+## (c) Tasks coding
