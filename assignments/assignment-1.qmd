@@ -92,3 +92,5 @@ print(anyNA(new_data))
 ### [**Note**]{.underline}
 
 I struggled especially with **the** **last part**, tried to apply what I learned from the slides but still couldnt complete w/o getting help from AI.
+
+(Hocam also I dont know why my resume link isnot working. If you can be available to give a feedback I will fix it as soon as possible.)
