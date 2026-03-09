@@ -33,12 +33,14 @@ data("polls_us_election_2016")
 my_first <- "Ece"        
 my_birth_year <- 2003
 
+#Define an integer k
 k <- (nchar(my_first) + my_birth_year) %% 15 + 8
 
 print(k)
 ```
 
 ```{r}
+#Display k rows of the original data 
 if (k %% 2 == 0) {
   print(head(polls_us_election_2016, k))
 } else {
@@ -46,15 +48,11 @@ if (k %% 2 == 0) {
 }
 ```
 
-```{total_na <- sum(is.na(polls_us_election_2016))}
-print(total_na)
-```
-
-**I dont know whats wrong here**
-
 ```{r}
-print(sum(is.na(polls_us_election_2016)))
+# the total number of NA values in the entire data set
 
+total_na <- sum(is.na(polls_us_election_2016))
+print(total_na)
 ```
 
 ```{r}
@@ -84,7 +82,7 @@ if (k %% 2 == 0) {
   print(tail(new_data, k))
 }
 
-print(paste("Yeni verideki kalan NA sayısı:", sum(is.na(new_data))))
+print(paste("number of NA's in new data", sum(is.na(new_data))))
 
 print(anyNA(new_data))
 ```
