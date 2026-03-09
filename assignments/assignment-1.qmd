@@ -50,7 +50,7 @@ if (k %% 2 == 0) {
 print(total_na)
 ```
 
-***I dont know whats wrong here***
+**I dont know whats wrong here**
 
 ```{r}
 print(sum(is.na(polls_us_election_2016)))
@@ -91,6 +91,6 @@ print(anyNA(new_data))
 
 ------------------------------------------------------------------------
 
-### **Footnote**
+### [**Footnote**]{.underline}
 
 I really struggled especially with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
