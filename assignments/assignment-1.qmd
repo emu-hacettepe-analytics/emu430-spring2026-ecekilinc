@@ -29,3 +29,43 @@ According to the video, which of the above are directly related to data science?
 a) 1,2 b) 1,3 c) 2,3 d) 1,2,3
 
 ## (c) Tasks
+
+```{r}
+library(dslabs)
+data("polls_us_election_2016")
+polls_us_election_2016
+
+```
+
+```{r}
+my_first <- "Ece"        
+my_birth_year <- 2003
+
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+
+print(k)
+```
+
+```{r}
+if (k %% 2 == 0) {
+  print(head(polls_us_election_2016, k))
+} else {
+  print(tail(polls_us_election_2016, k))
+}
+```
+
+```{total_na <- sum(is.na(polls_us_election_2016))}
+print(total_na)
+```
+
+*I dont know whats wrong here*
+
+```{r}
+print(sum(is.na(polls_us_election_2016)))
+
+```
+
+```{r}
+na_per_column <- sort(colSums(is.na(polls_us_election_2016)), decreasing = TRUE)
+print(head(na_per_column, 8))
+```
