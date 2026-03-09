@@ -2,10 +2,6 @@
 title: "Assignment 1"
 ---
 
-```{r}
-1 + 1
-```
-
 My first assignment has three parts.
 
 ## (a) Brief Summary of Fireside Chats: Data Science and Industrial Engineering w/Cem Vardar [🧷](https://youtu.be/Fi8-phj1X1A)
@@ -69,3 +65,32 @@ print(sum(is.na(polls_us_election_2016)))
 na_per_column <- sort(colSums(is.na(polls_us_election_2016)), decreasing = TRUE)
 print(head(na_per_column, 8))
 ```
+
+```{r}
+# Get a new data
+new_data <- polls_us_election_2016
+
+
+for(i in 1:ncol(new_data)) {
+  if(is.numeric(new_data[[i]])) {
+    
+    new_data[[i]][is.na(new_data[[i]])] <- my_birth_year + k
+  } else {
+    
+    new_data[[i]] <- as.character(new_data[[i]])
+    new_data[[i]][is.na(new_data[[i]])] <- paste0(my_first, "_", k)
+  }
+}
+
+if (k %% 2 == 0) {
+  print(head(new_data, k))
+} else {
+  print(tail(new_data, k))
+}
+
+print(paste("Yeni verideki kalan NA sayısı:", sum(is.na(new_data))))
+
+print(anyNA(new_data))
+```
+
+i really struggled with the last past, tried to apply what i learned from the slides but still couldnt complete w/o getting help from AI.
